@@ -2,7 +2,7 @@
 
 A repository to store updates on my 100 Days of Code journey that will eventually be converted into a custom blog format
 
-Day 1 (01/01/2021)
+Day 1 (01/01/2021)    
 
     -spent about an hour watching self-taught software engineer YouTubers to hype me up
     -created Git repo for 100 Days of Code challenge with plans to expand
