@@ -17,5 +17,12 @@ Day 2 (01/02/2021)
 
 Day 3 (01/03/2021)
 
-    -Created a repository for projects from my Web Dev Bootcamp course on Udemy 
-    -Finished and pushed a race registration page for practice with forms 
+    -Created a repository for projects from my Web Dev Bootcamp course on Udemy
+    -Finished and pushed a race registration page for practice with forms
+
+Day 4 (01/04/2021)
+
+    -Learned about the different color systems used by CSS
+    -Did research on the differences between various CSS frameworks including Bootstrap and Tailwind, also diving into the paradigms of object-oriented CSS and utility-first CSS
+    -Practiced flexbox positioning with Flexbox Froggy
+    -Contacted an open-source project (if-me.org) about joining as a contributor
