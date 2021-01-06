@@ -26,3 +26,11 @@ Day 4 (01/04/2021)
     -Did research on the differences between various CSS frameworks including Bootstrap and Tailwind, also diving into the paradigms of object-oriented CSS and utility-first CSS
     -Practiced flexbox positioning with Flexbox Froggy
     -Contacted an open-source project (if-me.org) about joining as a contributor
+
+Day 5 (01/05/2021)
+
+    -Accepted as contributor for if-me.org
+    -Attempted to get if-me project set up with Docker, got confused somewhere along the line and failed miserably
+    -Reached out for help from the if-me dev community, waiting for a response
+    -Finished the hell out of Flexbox Froggy to feel good about myself 
+    
