@@ -32,5 +32,8 @@ Day 5 (01/05/2021)
     -Accepted as contributor for if-me.org
     -Attempted to get if-me project set up with Docker, got confused somewhere along the line and failed miserably
     -Reached out for help from the if-me dev community, waiting for a response
-    -Finished the hell out of Flexbox Froggy to feel good about myself 
-    
+    -Finished the hell out of Flexbox Froggy to feel good about myself
+
+Day 6 (01/06/2021)
+
+    -Slow day, just worked through a chunk of freeCodeCamp's Basic JavaScript modules
