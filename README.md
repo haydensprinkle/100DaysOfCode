@@ -37,3 +37,8 @@ Day 5 (01/05/2021)
 Day 6 (01/06/2021)
 
     -Slow day, just worked through a chunk of freeCodeCamp's Basic JavaScript modules
+
+Day 7 (01/07/2021)
+
+    -Unfortunately another slow day, first shift back at work after quarantining for a couple weeks
+    -Only really had time to work through some freeCodeCamp, planning to hard charge on some projects this weekend
