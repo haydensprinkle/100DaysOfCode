@@ -42,3 +42,10 @@ Day 7 (01/07/2021)
 
     -Unfortunately another slow day, first shift back at work after quarantining for a couple weeks
     -Only really had time to work through some freeCodeCamp, planning to hard charge on some projects this weekend
+
+Day 8 (01/08/2021)
+
+    -Spent time reading through the React docs and messing around with JSX in CodePens
+    -Did considerable research on JavaScript vs. TypeScript
+    -Started a new small project that will allow a user to sign in to a Twitter account and post a simple text Tweet
+    -Learned about communicating with Twitter's API to achieve desired functionality
