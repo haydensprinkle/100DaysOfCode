@@ -49,3 +49,9 @@ Day 8 (01/08/2021)
     -Did considerable research on JavaScript vs. TypeScript
     -Started a new small project that will allow a user to sign in to a Twitter account and post a simple text Tweet
     -Learned about communicating with Twitter's API to achieve desired functionality
+
+Day 9 (01/09/2021)
+
+    -Watched several videos on connecting to Twitter API
+    -Learned how to implement Twitter Web Intents to direct to Twitter and post
+    -Fiddled with customizing function to send data to Twitter API without Web Intents, hoping to fully implement tomorrow
