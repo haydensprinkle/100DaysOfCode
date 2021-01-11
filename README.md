@@ -58,6 +58,7 @@ Day 9 (01/09/2021)
 
 Day 10 (01/10/2021)
 
-    -Couldn't resolve the issue with the event handler in my Twitter Poster project just yet but I will make sure to figure it out tomorrow on my day off
+    -Resolved issue with event handler and successfully implemented Web Intent to post Tweet
+    -Didn't implement API calls, will attempt tomorrow
     -Worked through more freeCodeCamp JavaScript modules
     -Read through a hunk of Svelte documentation to understand differences of React
