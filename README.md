@@ -55,3 +55,9 @@ Day 9 (01/09/2021)
     -Watched several videos on connecting to Twitter API
     -Learned how to implement Twitter Web Intents to direct to Twitter and post
     -Fiddled with customizing function to send data to Twitter API without Web Intents, hoping to fully implement tomorrow
+
+Day 10 (01/10/2021)
+
+    -Couldn't resolve the issue with the event handler in my Twitter Poster project just yet but I will make sure to figure it out tomorrow on my day off
+    -Worked through more freeCodeCamp JavaScript modules
+    -Read through a hunk of Svelte documentation to understand differences of React
