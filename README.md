@@ -62,3 +62,8 @@ Day 10 (01/10/2021)
     -Didn't implement API calls, will attempt tomorrow
     -Worked through more freeCodeCamp JavaScript modules
     -Read through a hunk of Svelte documentation to understand differences of React
+
+Day 11 (01/11/2021)
+
+    -Started new Git repo for a simple vanilla JS weather app that talks to an API to get IP location based weather information and displays it
+    -Organized project, set up basic markup, and global styling
