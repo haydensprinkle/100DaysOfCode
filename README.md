@@ -67,3 +67,7 @@ Day 11 (01/11/2021)
 
     -Started new Git repo for a simple vanilla JS weather app that talks to an API to get IP location based weather information and displays it
     -Organized project, set up basic markup, and global styling
+
+Day 12 (01/12/2021)
+
+    -Added code to display stats for tasks left, tasks completed, and total tasks to my to-do app, using vanilla js DOM manipulation
