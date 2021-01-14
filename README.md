@@ -71,3 +71,9 @@ Day 11 (01/11/2021)
 Day 12 (01/12/2021)
 
     -Added code to display stats for tasks left, tasks completed, and total tasks to my to-do app, using vanilla js DOM manipulation
+
+Day 13 (01/13/2021)
+
+    -Added some basic layout and styling to weather app, not responsive yet
+    -Played around with location and weather API's, nothing committed or pushed yet
+    -Attempted to style my to-do app and make it responsive, but to no avail just yet. Still need more practice with CSS
