@@ -77,3 +77,10 @@ Day 13 (01/13/2021)
     -Added some basic layout and styling to weather app, not responsive yet
     -Played around with location and weather API's, nothing committed or pushed yet
     -Attempted to style my to-do app and make it responsive, but to no avail just yet. Still need more practice with CSS
+
+Day 14 (01/14/2021)
+
+    -Did research on basic project management
+    -Signed up for Trello and started a board for upcoming Weather App
+    -Added cards for all tasks I can think of, planning to iterate as project progresses
+    -Linked current markup elements to JS variablesS
