@@ -83,4 +83,9 @@ Day 14 (01/14/2021)
     -Did research on basic project management
     -Signed up for Trello and started a board for upcoming Weather App
     -Added cards for all tasks I can think of, planning to iterate as project progresses
-    -Linked current markup elements to JS variablesS
+    -Linked current markup elements to JS variables
+
+Day 15 (01/15/2021)
+
+    -Slow day, mainly just watched Colt Steele videos on AJAX and other API related topics
+    -Listened to Chris Ferdinandi's podcast episode on accessibility as moral obligation
