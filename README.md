@@ -70,7 +70,7 @@ Day 11 (01/11/2021)
 
 Day 12 (01/12/2021)
 
-    -Added code to display stats for tasks left, tasks completed, and total tasks to my to-do app, using vanilla js DOM manipulation
+    -Added code to display stats for tasks left, tasks completed, and total tasks to my to-do app, using vanilla JS DOM manipulation
 
 Day 13 (01/13/2021)
 
@@ -89,3 +89,8 @@ Day 15 (01/15/2021)
 
     -Slow day, mainly just watched Colt Steele videos on AJAX and other API related topics
     -Listened to Chris Ferdinandi's podcast episode on accessibility as moral obligation
+
+Day 16 (01/16/2021)
+
+    -Added functionality to grab current geolocation in weather app
+    -Updated Trello board accordingly
