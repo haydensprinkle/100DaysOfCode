@@ -94,3 +94,9 @@ Day 16 (01/16/2021)
 
     -Added functionality to grab current geolocation in weather app
     -Updated Trello board accordingly
+
+Day 17 (01/17/2021)
+
+    -Added API call to OpenWeatherMap that returned weather data for current user location
+    -Utilized proxy to run request through to avoid CORS issues
+    -Extracted necessary info from returned data and assigned to variables
