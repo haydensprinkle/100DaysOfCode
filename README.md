@@ -100,3 +100,7 @@ Day 17 (01/17/2021)
     -Added API call to OpenWeatherMap that returned weather data for current user location
     -Utilized proxy to run request through to avoid CORS issues
     -Extracted necessary info from returned data and assigned to variables
+
+Day 18 (01/18/2021)
+
+    -Linked HTML elements in weather app to data received from OpenWeatherMap API to display information dynamically
