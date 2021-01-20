@@ -104,3 +104,10 @@ Day 17 (01/17/2021)
 Day 18 (01/18/2021)
 
     -Linked HTML elements in weather app to data received from OpenWeatherMap API to display information dynamically
+
+Day 19 (01/19/2021)
+
+    -Started new project that grabs user location and displays current Covid-19 data for their county
+    -Created Git repo and made initial commits to get the ball rolling
+    -Got basic scaffolding set up and connected to covidactnow.org API to receive data for Sonoma County, planning to add geolocation functionality tomorrow
+    -Extracted some data and injected into markup, planning to add more info sections in future
