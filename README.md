@@ -111,3 +111,9 @@ Day 19 (01/19/2021)
     -Created Git repo and made initial commits to get the ball rolling
     -Got basic scaffolding set up and connected to covidactnow.org API to receive data for Sonoma County, planning to add geolocation functionality tomorrow
     -Extracted some data and injected into markup, planning to add more info sections in future
+
+Day 20 (01/20/2021)
+
+    -Added new sections in Covid data app for general info, infection metrics, and bed usage data for hospitals and ICU
+    -Extracted data and injected into markup for new sections
+    -Planning to deploy on Netlify once completed
