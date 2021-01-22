@@ -117,3 +117,10 @@ Day 20 (01/20/2021)
     -Added new sections in Covid data app for general info, infection metrics, and bed usage data for hospitals and ICU
     -Extracted data and injected into markup for new sections
     -Planning to deploy on Netlify once completed
+
+Day 21 (01/21/2021)
+
+    -Created Git repo to host all of the projects for my CS50A class at Santa Rosa Junior College
+    -Wrote function to format date in Covid data app
+    -Called toLocalString method on displayed data to make it more readable
+    -Created API call to return data on all counties in U.S. including their FIPS numbers, figuring out how to use the data to implement search and autocomplete functionalities
