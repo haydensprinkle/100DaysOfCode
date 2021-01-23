@@ -124,3 +124,8 @@ Day 21 (01/21/2021)
     -Wrote function to format date in Covid data app
     -Called toLocalString method on displayed data to make it more readable
     -Created API call to return data on all counties in U.S. including their FIPS numbers, figuring out how to use the data to implement search and autocomplete functionalities
+
+Day 22 (01/21/2021)
+
+    -Added sections to markup in COVID data app
+    -Applied styles to entire app, including custom button, and data cards with shadows
