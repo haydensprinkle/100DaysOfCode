@@ -125,7 +125,13 @@ Day 21 (01/21/2021)
     -Called toLocalString method on displayed data to make it more readable
     -Created API call to return data on all counties in U.S. including their FIPS numbers, figuring out how to use the data to implement search and autocomplete functionalities
 
-Day 22 (01/21/2021)
+Day 22 (01/22/2021)
 
     -Added sections to markup in COVID data app
     -Applied styles to entire app, including custom button, and data cards with shadows
+
+Day 23 (01/23/2021)
+
+    -Added some placeholder text to COVID data app search field and grabbed the input with JS
+    -Figured out how to get individual data out of the array returned by the API
+    -Currently figuring out how to populate my own array of objects linking counties and FIPS codes to make them searchable
