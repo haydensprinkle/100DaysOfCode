@@ -135,3 +135,8 @@ Day 23 (01/23/2021)
     -Added some placeholder text to COVID data app search field and grabbed the input with JS
     -Figured out how to get individual data out of the array returned by the API
     -Currently figuring out how to populate my own array of objects linking counties and FIPS codes to make them searchable
+
+Day 24 (01/24/2021)
+
+    -Slow day, didn't get to work on any projects
+    -Spent time looking up unfamiliar concepts off of Kamran Ahmed's developer roadmaps
