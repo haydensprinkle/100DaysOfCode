@@ -140,3 +140,8 @@ Day 24 (01/24/2021)
 
     -Slow day, didn't get to work on any projects
     -Spent time looking up unfamiliar concepts off of Kamran Ahmed's developer roadmaps
+
+Day 25 (01/25/2021)
+
+    -Populated Map object with county names and FIPS codes
+    -Working to figure out how to search through the object to return FIPS code based on search
