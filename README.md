@@ -145,3 +145,10 @@ Day 25 (01/25/2021)
 
     -Populated Map object with county names and FIPS codes
     -Working to figure out how to search through the object to return FIPS code based on search
+
+Day 26 (01/26/2021)
+
+    -Scrapped Map object and just populated an array of objects with county name, state name, and FIPS code
+    -Wrote functionality for searching through array with county name and updating data accordingly
+    -Wrote functionality to grab current coords, hit an API endpoint to return corresponding FIPS code, and update data accordingly
+    -Replaced all instances of "Covid" with "COVID"
