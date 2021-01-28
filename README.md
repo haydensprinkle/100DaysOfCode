@@ -152,3 +152,8 @@ Day 26 (01/26/2021)
     -Wrote functionality for searching through array with county name and updating data accordingly
     -Wrote functionality to grab current coords, hit an API endpoint to return corresponding FIPS code, and update data accordingly
     -Replaced all instances of "Covid" with "COVID"
+
+Day 27 (01/27/2021)
+
+    -Slow day, did some playing around with search algorithms
+    -Planning to implement bubble sort into COVID data site
