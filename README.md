@@ -157,3 +157,8 @@ Day 27 (01/27/2021)
 
     -Slow day, did some playing around with search algorithms
     -Planning to implement bubble sort into COVID data site
+
+Day 28 (01/28/2021)
+
+    -Did research on Deno vs Node.js 
+    -Watched videos on various higher order JavaScript functions
