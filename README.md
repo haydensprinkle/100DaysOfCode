@@ -160,5 +160,10 @@ Day 27 (01/27/2021)
 
 Day 28 (01/28/2021)
 
-    -Did research on Deno vs Node.js 
+    -Did research on Deno vs Node.js
     -Watched videos on various higher order JavaScript functions
+
+Day 29 (01/29/2021)
+
+    -Forked repo Head First HTML repo on GitHub for my SRJC CS50A web development class
+    -Worked on second assignment, nothing pushed yet
