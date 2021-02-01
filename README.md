@@ -171,3 +171,8 @@ Day 29 (01/29/2021)
 Day 30 (01/30/2021)
 
     -Super slow day, only got to work through freeCodeCamp lessons on my breaks at work
+
+Day 31 (01/31/2021)
+
+    -Set up Git repo for new Word Counter website project
+    -Wrote and pushed basic markup scaffolding for website
