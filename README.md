@@ -167,3 +167,7 @@ Day 29 (01/29/2021)
 
     -Forked repo Head First HTML repo on GitHub for my SRJC CS50A web development class
     -Worked on second assignment, nothing pushed yet
+
+Day 30 (01/30/2021)
+
+    -Super slow day, only got to work through freeCodeCamp lessons on my breaks at work
