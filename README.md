@@ -175,4 +175,9 @@ Day 30 (01/30/2021)
 Day 31 (01/31/2021)
 
     -Set up Git repo for new Word Counter website project
-    -Wrote and pushed basic markup scaffolding for website
+    -Wrote and pushed basic markup scaffolding for Word Counter website
+
+Day 32 (02/01/2021)
+
+    -Worked through some freeCodeCamp lessons
+    -Played around with array manipulation techniques, nothing pushed
