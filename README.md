@@ -185,3 +185,8 @@ Day 32 (02/01/2021)
 Day 33 (02/02/2021)
 
     -Slow day, only had time to work on basic HTML and CSS homework assignment
+
+Day 34 (02/03/2021)
+
+    -Touched up on my C++ skills and messed around with getting the hang of pointers
+    -Looked into adopting TypeScript into my workflow
