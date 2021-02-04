@@ -181,3 +181,7 @@ Day 32 (02/01/2021)
 
     -Worked through some freeCodeCamp lessons
     -Played around with array manipulation techniques, nothing pushed
+
+Day 33 (02/02/2021)
+
+    -Slow day, only had time to work on basic HTML and CSS homework assignment
