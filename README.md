@@ -190,3 +190,8 @@ Day 34 (02/03/2021)
 
     -Touched up on my C++ skills and messed around with getting the hang of pointers
     -Looked into adopting TypeScript into my workflow
+
+Day 35 (02/04/2021)
+
+    -Unsuccessfully tried to get autocomplete up and running on my COVID data app
+    -Worked through some basic tutorials on node.js
