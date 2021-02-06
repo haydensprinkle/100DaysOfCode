@@ -195,3 +195,8 @@ Day 35 (02/04/2021)
 
     -Unsuccessfully tried to get autocomplete up and running on my COVID data app
     -Worked through some basic tutorials on node.js
+
+Day 36 (02/05/2021)
+
+    -Did extensive reading on semantic HTML
+    -Learned about block scope vs. lexical scope
