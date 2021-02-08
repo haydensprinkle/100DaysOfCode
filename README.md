@@ -200,3 +200,8 @@ Day 36 (02/05/2021)
 
     -Did extensive reading on semantic HTML
     -Learned about block scope vs. lexical scope
+
+Day 37 (02/06/2021)
+
+    -Learned about the ES6 rest and spread features
+    -Learned about promises, async, and await
