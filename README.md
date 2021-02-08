@@ -205,3 +205,7 @@ Day 37 (02/06/2021)
 
     -Learned about the ES6 rest and spread features
     -Learned about promises, async, and await
+
+Day 38 (02/07/2021)
+
+    -Learned about more advanced CSS selectors, including adjacent combinator and direct child combinator
