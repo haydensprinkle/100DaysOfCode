@@ -209,3 +209,9 @@ Day 37 (02/06/2021)
 Day 38 (02/07/2021)
 
     -Learned about more advanced CSS selectors, including adjacent combinator and direct child combinator
+
+Day 39 (02/08/2021)
+
+    -Learned about relational vs. multidimensional databases
+    -Learned various basic SQL commands
+    -Created a basic website about lemurs as a class project
