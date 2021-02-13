@@ -228,3 +228,8 @@ Day 42 (02/11/2021)
 
     -Learned how to work with CSS variables 
     -Researched the object-oriented CSS methodology
+
+Day 43 (02/12/2021)
+
+    -Began work on a prototype site for my CS50A midterm project
+
