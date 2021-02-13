@@ -219,3 +219,8 @@ Day 39 (02/08/2021)
 Day 40 (02/09/2021)
 
     -Worked through a quick mobile tutorial on PHP
+
+Day 41 (02/10/2021)
+
+    -Completed a couple tutorial modules on basic PHP
+
