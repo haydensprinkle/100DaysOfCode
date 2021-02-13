@@ -215,3 +215,7 @@ Day 39 (02/08/2021)
     -Learned about relational vs. multidimensional databases
     -Learned various basic SQL commands
     -Created a basic website about lemurs as a class project
+
+Day 40 (02/09/2021)
+
+    -Worked through a quick mobile tutorial on PHP
