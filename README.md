@@ -224,3 +224,7 @@ Day 41 (02/10/2021)
 
     -Completed a couple tutorial modules on basic PHP
 
+Day 42 (02/11/2021)
+
+    -Learned how to work with CSS variables 
+    -Researched the object-oriented CSS methodology
