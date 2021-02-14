@@ -233,3 +233,7 @@ Day 43 (02/12/2021)
 
     -Began work on a prototype site for my CS50A midterm project
 
+Day 44 (02/13/2021)
+
+    -Played around with WordPress, started a test project to try to build out a skateshop eCommerce site
+
