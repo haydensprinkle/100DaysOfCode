@@ -226,7 +226,7 @@ Day 41 (02/10/2021)
 
 Day 42 (02/11/2021)
 
-    -Learned how to work with CSS variables 
+    -Learned how to work with CSS variables
     -Researched the object-oriented CSS methodology
 
 Day 43 (02/12/2021)
@@ -237,3 +237,6 @@ Day 44 (02/13/2021)
 
     -Played around with WordPress, started a test project to try to build out a skateshop eCommerce site
 
+Day 45 (02/14/2021)
+
+    -Learned about building out RESTful APIs with node.js
