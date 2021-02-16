@@ -240,3 +240,9 @@ Day 44 (02/13/2021)
 Day 45 (02/14/2021)
 
     -Learned about building out RESTful APIs with node.js
+
+Day 46 (02/15/2021)
+
+    -Finished second page for CS50A module 4 assignment
+    -Added nav bar on both pages 
+    -Tweaked styling on assignment as well
