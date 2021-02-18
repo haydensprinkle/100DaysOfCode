@@ -246,3 +246,7 @@ Day 46 (02/15/2021)
     -Finished second page for CS50A module 4 assignment
     -Added nav bar on both pages 
     -Tweaked styling on assignment as well
+
+Day 47 (02/16/2021)
+
+    -Worked on a couple leetcode algorithm challenges centered primarily around array manipulation
